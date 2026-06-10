@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,godot,idea,clion"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://skillicons.dev/icons?i=raspberrypi,docker,cloudflare,latex"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://skillicons.dev/icons?i=blender,figma,ps">
+  <img src="https://skillicons.dev/icons?i=vscode,godot,idea,clion"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://skillicons.dev/icons?i=raspberrypi,docker,cloudflare"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://skillicons.dev/icons?i=blender,figma,ps,latex">
 </p>
 <br/>
 <p align="center">

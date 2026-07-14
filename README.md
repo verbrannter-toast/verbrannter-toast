@@ -12,25 +12,25 @@
 
   <a href="https://github.com/verbrannter-toast/PixelArtEditor">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=PixelArtEditor&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=PixelArtEditor&theme=tokyonight"
     />
   </a>
 
   <a href="https://github.com/verbrannter-toast/Plant-Watering-Reminder">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=Plant-Watering-Reminder&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=Plant-Watering-Reminder&theme=tokyonight"
     />
   </a>
   
   <a href="https://github.com/verbrannter-toast/FangOrFall">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=FangOrFall&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=FangOrFall&theme=tokyonight"
     />
   </a>
 
   <a href="https://github.com/verbrannter-toast/ESP32-Hardwaremonitor">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=ESP32-Hardwaremonitor&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=ESP32-Hardwaremonitor&theme=tokyonight"
       alt="Plant Watering Reminder repository card"
     />
   </a>
@@ -43,13 +43,13 @@
 
   <a href="https://github.com/verbrannter-toast/Easy-Aspect-Ratio">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=Easy-Aspect-Ratio&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=Easy-Aspect-Ratio&theme=tokyonight"
     />
   </a>
 
   <a href="https://github.com/verbrannter-toast/Easy-Sprite-Upscaling">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=Easy-Sprite-Upscaling&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=Easy-Sprite-Upscaling&theme=tokyonight"
     />
   </a>
 
@@ -61,13 +61,13 @@
 
   <a href="https://github.com/verbrannter-toast/ShowCoords">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=ShowCoords&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=ShowCoords&theme=tokyonight"
     />
   </a>
 
   <a href="https://github.com/verbrannter-toast/CopyCoords">
     <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=verbrannter-toast&repo=CopyCoords&theme=tokyonight"
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=CopyCoords&theme=tokyonight"
     />
   </a>
 

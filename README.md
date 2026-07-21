@@ -31,7 +31,12 @@
   <a href="https://github.com/verbrannter-toast/ESP32-Hardwaremonitor">
     <img
       src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=ESP32-Hardwaremonitor&theme=tokyonight"
-      alt="Plant Watering Reminder repository card"
+    />
+  </a>
+
+  <a href="https://github.com/verbrannter-toast/QR-Game-Of-Life">
+    <img
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=QR-Game-Of-Life&theme=tokyonight"
     />
   </a>
 

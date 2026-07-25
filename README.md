@@ -65,21 +65,3 @@
   </a>
 
 </p>
-
-### Minecraft Mods
-
-<p align="center">
-
-  <a href="https://github.com/verbrannter-toast/ShowCoords">
-    <img
-      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=ShowCoords&theme=tokyonight"
-    />
-  </a>
-
-  <a href="https://github.com/verbrannter-toast/CopyCoords">
-    <img
-      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=CopyCoords&theme=tokyonight"
-    />
-  </a>
-
-</p>

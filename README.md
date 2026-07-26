@@ -28,6 +28,12 @@
     />
   </a>
 
+  <a href="https://github.com/verbrannter-toast/QR-Game-Of-Life">
+    <img
+      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=QR-Game-Of-Life&theme=tokyonight"
+    />
+  </a>
+
   <a href="https://github.com/areofyl/fetch">
     <img
       src="https://readme-stats-backend.vercel.app/api/pin/?username=areofyl&repo=fetch&theme=tokyonight"
@@ -37,12 +43,6 @@
   <a href="https://github.com/verbrannter-toast/ESP32-Hardwaremonitor">
     <img
       src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=ESP32-Hardwaremonitor&theme=tokyonight"
-    />
-  </a>
-
-  <a href="https://github.com/verbrannter-toast/QR-Game-Of-Life">
-    <img
-      src="https://readme-stats-backend.vercel.app/api/pin/?username=verbrannter-toast&repo=QR-Game-Of-Life&theme=tokyonight"
     />
   </a>
 
